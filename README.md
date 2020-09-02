@@ -31,9 +31,13 @@ kops update cluster --name clusters.santigrace.com --yes
 6) You can access the services such as:
 
 http://ticketmaster.santigrace.com/add?num1=9&num2=7
+
 http://ticketmaster.santigrace.com/substract?num1=43&num2=54
+
 http://ticketmaster.santigrace.com/division?num1=10&num2=3
+
 http://ticketmaster.santigrace.com/random?num1=3
+
 http://ticketmaster.santigrace.com/random
 
 

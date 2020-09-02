@@ -14,11 +14,8 @@ kops update cluster --name clusters.santigrace.com --yes
 2) Created the apps and push them to dockerhub
 
 [ec2-user@ip-172-31-64-74 src]$ sudo docker push santi10/add:1
-
 [ec2-user@ip-172-31-64-74 src]$ sudo docker push santi10/substract:1
-
 [ec2-user@ip-172-31-64-74 src]$ sudo docker push santi10/division:1
-
 [ec2-user@ip-172-31-64-74 src]$ sudo docker push santi10/random:1
 
 

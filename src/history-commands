@@ -1,0 +1,926 @@
+    1  yum update
+    2  sudo su
+    3  ls
+    4  /usr/local/bin/python3.7 -V
+    5  cd /etc
+    6  cd ~
+    7  ls
+    8  ls -a
+    9  vi .bashrc
+   10  source .bashrc
+   11  echo $PATH
+   12  ls -a
+   13  vi .bash_
+   14  vi .bash_profile 
+   15  vi .bashrc
+   16  vi /etc/bashrc
+   17  sudo -i
+   18  echo $PATH
+   19  ls -a
+   20  ls .ssh
+   21  cat .bash_profile 
+   22  python3.7 -V
+   23  pip
+   24  pip3.7
+   25  pip3.7 install flask
+   26  pwd
+   27  ls
+   28  git clone https://github.com/tecladocode/rest-api-sections/tree/master/section3
+   29  yum git install
+   30  yum instal git
+   31  yum install git
+   32  sudo yum install git
+   33  git clone https://github.com/tecladocode/rest-api-sections/tree/master/section3
+   34  git clone https://github.com/tecladocode/rest-api-sections.git
+   35  ls
+   36  cd rest-api-sections/
+   37  ls
+   38  cd section3
+   39  ls
+   40  ls templates
+   41  cd templates/
+   42  vi index.html 
+   43  ls
+   44  cd ..
+   45  ls
+   46  python3.7 app.py
+   47  vi app.py
+   48  mv app.py app.py.ORIG
+   49  vi app.py
+   50  python3.7 app.py
+   51  vi app.py
+   52  python3.7 app.py
+   53  vi app.py
+   54  python3.7 app.py
+   55  vi app.py
+   56  python3.7 app.py
+   57  ping http://34.239.250.111/
+   58  python3.7 app.py
+   59  vi app.py
+   60  python3.7 app.py
+   61  vi app.py
+   62  python3.7 app.py
+   63  vi app.py
+   64  python3.7 app.py
+   65  vi app.py
+   66  ls
+   67  ls la
+   68  ls -l
+   69  ls template
+   70  rmdir template
+   71  cd template
+   72  ks
+   73  cd templates
+   74  ls
+   75  cat index.html 
+   76  cd ..
+   77  ls
+   78  vi app.py
+   79  cd templates/
+   80  vi index.html 
+   81  cd ..
+   82  ls
+   83  vi app.py
+   84  ls
+   85  vi curl
+   86  vi app.py
+   87  vi curl
+   88  vi app.py
+   89  ls
+   90  vi curl
+   91  python3.7 app.py
+   92  ls
+   93  cd rest-api-sections/
+   94  ls
+   95  cd section3
+   96  ls
+   97  python3.7 app.py
+   98  pwd
+   99  ls
+  100  mkdir template
+  101  cd template
+  102  vi index.html
+  103  python3.7 app.py
+  104  cd ..
+  105  python3.7 app.py
+  106  sudo pip3.7 install Flask-RESTful
+  107  sudo pip3.5 install Flask-RESTful
+  108   pip3.5 install Flask-RESTful
+  109   pip3 install Flask-RESTful
+  110  pip3.7
+  111  sudo pip3.7 install Flask-RESTful
+  112  pip3.7 install Flask-RESTful
+  113  python3.7 app.py
+  114  ls
+  115  cd templates/
+  116  ls
+  117  vi index.html 
+  118  cd ..
+  119  python3.7 app.py
+  120  ls
+  121  cd rest-api-sections/
+  122  ls
+  123  cd section
+  124  cd section3
+  125  ls
+  126  python3.7 app.py
+  127  '
+  128  python3.7 app.py
+  129  python3.7 head.py
+  130  history
+  131  pip3.7 install pycurl
+  132  sudo pip3.7 install pycurl
+  133  pip3.7 install pycurl
+  134  pip
+  135  pip3.5 install pycurl
+  136  sudo yum install python-pycurl
+  137  python3.7 head.py
+  138  pip3.5 install pycurl
+  139  pip3.7 install pycurl
+  140  '/usr/local/bin/python3.7 -m pip install --upgrade pip
+  141  /usr/local/bin/python3.7 -m pip install --upgrade pip
+  142  pip3.7 install pycurl
+  143  yum install libcurl-devel
+  144  sudo yum install libcurl-devel
+  145  python3.7 head.py
+  146  sudo yum install libssl-dev libcurl4-openssl-dev python-dev
+  147  sudo install libcurl4-gnutls-dev
+  148  sudo yum install libcurl4-gnutls-dev
+  149  python3.7 head.py
+  150  pip3.7 install pycurl
+  151  python3.7 head.py
+  152  pip3.7 uninstallinstall pycurl
+  153  pip3.7 uninstall pycurl
+  154  export PYCURL_SSL_LIBRARY=openssl
+  155  pip3.7 install pycurl
+  156  python3.7 head.py
+  157  python3.7 app.py
+  158  cat curl 
+  159  python3.7 app.py
+  160  pip3.7 install human_curl
+  161  python3.7 app.py
+  162  ls
+  163  cd templates/
+  164  ls
+  165  vi index.html 
+  166  python3.7 app.py
+  167  cd ..
+  168  python3.7 app.py
+  169  ls
+  170  cd rest-api-sections/
+  171  ls
+  172  cd section3
+  173  ls
+  174  vi app.py
+  175  ls
+  176  app.py app.py.FUNCA1
+  177  cp app.py app.py.FUNCA1
+  178  ls
+  179  vi app.py
+  180  ls
+  181  cp app.py app.py.FUNCA2
+  182  vi app.py
+  183  cp app.py app.py.FUNCA3
+  184  vi app.py
+  185  cp app.py app.py.FUNCA-RANDOM
+  186  ls
+  187  cat curl
+  188  vi app.py
+  189  vi head.py
+  190  vi curl
+  191  vi head.py
+  192  python3.7 head.py
+  193  ls
+  194  vi head.py 
+  195  python3.7 head.py
+  196  vu head.py 
+  197  vi head.py 
+  198  python3.7 head.py
+  199  ls
+  200  vi status.py
+  201  python3.7 status.py
+  202  vi status.py
+  203  python3.7 status.py
+  204  vi status.py
+  205  python3.7 status.py
+  206  vi status.py
+  207  python3.7 status.py
+  208  vi status.py
+  209  python3.7 status.py
+  210  vi status.py
+  211  python3.7 status.py
+  212  vi status.py
+  213  python3.7 status.py
+  214  vi status.py
+  215  python3.7 status.py
+  216  vi status.py
+  217  python3.7 status.py
+  218  vi status.py
+  219  python3.7 status.py
+  220  vi status.py
+  221  python3.7 status.py
+  222  vi status.py
+  223  python3.7 status.py
+  224  vi status.py
+  225  python3.7 status.py
+  226  vi status.py
+  227  python3.7 status.py
+  228  vi status.py
+  229  python3.7 status.py
+  230  vi status.py
+  231  python3.7 status.py
+  232  vi status.py
+  233  python3.7 status.py
+  234  vi status.py
+  235  python3.7 status.py
+  236  vi status.py 
+  237  python3.7 status.py
+  238  ls
+  239  vi app.py
+  240  cd templates/
+  241  vi index.html 
+  242  ls
+  243  cd ..
+  244  ls
+  245  mkdir misc
+  246  mv app.F* misc
+  247  mv app.py.F* misc
+  248  ls misc
+  249  ls
+  250  mv status.py head.py misc
+  251  ls
+  252  vi app.py.ORIG 
+  253  ls ..
+  254  ls
+  255  cat curl
+  256  vi curl
+  257  ls
+  258  cd rest-api-sections/
+  259  ;s
+  260  ls
+  261  cd section3
+  262  ls
+  263  python3.7 app.py
+  264  ls
+  265  view app.py
+  266  python3.7 app.py
+  267  view app.py
+  268  cat app.py
+  269  python3.7 app.py
+  270  vi app.py
+  271  ls
+  272  ls misc
+  273  ls
+  274  diff app.py misc/app.py.FUNCA-RANDOM 
+  275  cp app.py misc/app.py.FUNCA4
+  276  VI APP.PY
+  277  vi app.py
+  278  python3.7 app.py
+  279  vi app.py
+  280  python3.7 app.py
+  281  vi app.py
+  282  python3.7 app.py
+  283  cat app.py
+  284  python3.7 app.py
+  285  cd rest-api-sections/
+  286  ls
+  287  cd section
+  288  cd section3
+  289  ls
+  290  vi app.py
+  291  cat  app.py
+  292  ls
+  293  vi test_add.py
+  294  pwd
+  295  l
+  296  ls
+  297  cat curl
+  298  history | grep pip
+  299  pip3.7 install pytest
+  300  vi curl
+  301  ls
+  302  vi app.py
+  303  vi test_app.py
+  304  python3.7 -m pytest
+  305  vi test_app.py
+  306  python3.7 -m pytest
+  307  vi test_app.py
+  308  python3.7 -m pytest
+  309  vi test_app.py
+  310  python3.7 -m pytest
+  311  vi test_app.py
+  312  python3.7 -m pytest
+  313  vi test_app.py
+  314  python3.7 -m pytest
+  315  vi test_app.py
+  316  python3.7 -m pytest
+  317  ls
+  318  vi test_app.py 
+  319  python3.7 -m pytest
+  320  vi test_app.py 
+  321  python3.7 -m pytest
+  322  vi test_app.py 
+  323  python3.7 -m pytest
+  324  vi test_app.py 
+  325  python3.7 -m pytest
+  326  vi test_app.py 
+  327  python3.7 -m pytest
+  328  vi test_app.py 
+  329  python3.7 -m pytest
+  330  vi test_app.py 
+  331  python3.7 -m pytest
+  332  vi test_app.py 
+  333  python3.7 -m pytest
+  334  vi test_app.py 
+  335  python3.7 -m pytest
+  336  vi test_app.py 
+  337  python3.7 -m pytest
+  338  vi test_app.py 
+  339  python3.7 -m pytest
+  340  vi test_app.py 
+  341  python3.7 -m pytest
+  342  vi test_app.py 
+  343  python3.7 -m pytest
+  344  vi test_app.py 
+  345  python3.7 -m pytest
+  346  vi test_app.py 
+  347  python3.7 -m pytest
+  348  vi test_app.py 
+  349  python3.7 -m pytest
+  350  vi test_app.py 
+  351  python3.7 -m pytest
+  352  vi test_app.py 
+  353  python3.7 -m pytest
+  354  vi test_app.py 
+  355  python3.7 -m pytest
+  356  vi test_app.py 
+  357  python3.7 -m pytest
+  358  vi test_app.py 
+  359  python3.7 -m pytest
+  360  vi test_app.py 
+  361  python3.7 -m pytest
+  362  vi test_app.py 
+  363  python3.7 -m pytest
+  364  vi test_app.py 
+  365  python3.7 -m pytest
+  366  vi test_app.py 
+  367  python3.7 -m pytest
+  368  vi test_app.py 
+  369  python3.7 -m pytest
+  370  vi test_app.py 
+  371  python3.7 -m pytest
+  372  vi test_app.py 
+  373  python3.7 -m pytest
+  374  vi test_app.py 
+  375  python3.7 -m pytest
+  376  vi test_app.py 
+  377  python3.7 -m pytest
+  378  ls
+  379  ls misc
+  380  cp misc/app.py.FUNCA4 ./appy.py
+  381  ls
+  382  mv appy.py app.py
+  383  python3.7 -m pytest
+  384  vi test_app.py 
+  385  python3.7 -m pytest
+  386  vi test_app.py 
+  387  python3.7 -m pytest
+  388  vi test_app.py 
+  389  python3.7 -m pytest
+  390  vi test_app.py 
+  391  python3.7 -m pytest
+  392  vi test_app.py 
+  393  python3.7 -m pytest
+  394  vi test_app.py 
+  395  python3.7 -m pytest
+  396  vi test_app.py 
+  397  python3.7 -m pytest
+  398  vi test_app.py 
+  399  cd /var/log
+  400  ls
+  401  cd /usr/share
+  402  ls
+  403  cd docs
+  404  cd doc
+  405  ls
+  406  ls -l
+  407  cd wget-1.14/
+  408  ls
+  409  more sample.wgetrc 
+  410    
+  411  cd ..
+  412  ls
+  413  lsyum provides
+  414  yum provides
+  415  man yum
+  416  yum repolist
+  417  yum provides etc
+  418   ls /etc/pam.d
+  419  rpm -V pam
+  420  rpm -V net
+  421  rpm -V rbind
+  422  rpm -V man
+  423  cd /var/log
+  424  ls messages
+  425  ls audit
+  426  sudo ls audit
+  427  man ldap
+  428  cd /etc/sysconfig
+  429  ls
+  430  cd rest-api-sections/
+  431  ls
+  432  cd section3
+  433  ls
+  434  yum update
+  435  sudo yum install -y
+  436  sudo yum install -y git
+  437  ls
+  438  vi Dockerfile
+  439  vi requirements.txt
+  440  pwd
+  441  ls
+  442  cat pp.py
+  443  ls
+  444  ls -a
+  445  cat app.py.ORIG 
+  446  ls
+  447  ls misc
+  448  mv app.py.ORIG misc
+  449  ls
+  450  mkdir src
+  451  mv * src
+  452  ls
+  453  cd src
+  454  ls
+  455  cat Dockerfile 
+  456  docker login --username=santi10 --email=santiago_gallo@hotmail.com
+  457  docker
+  458  sudo yum install docker
+  459  ls
+  460  docker build -t santi10/mastercalc .
+  461  systemctl start docker
+  462  sudo yum install docker
+  463  sudo systemctl start docker
+  464  sudo systemctl enable docker
+  465  docker info
+  466  sudo docker info
+  467  docker build -t santi10/mastercalc .
+  468  sudo docker build -t santi10/mastercalc .
+  469  vi 
+  470  vi Dockerfile 
+  471  cat Dockerfile 
+  472  pwd
+  473  tree
+  474  sudo yum instal tree
+  475  sudoyum install tree -y
+  476  sudo yum install tree -y
+  477  tree
+  478  sudo docker build -t santi10/mastercalc .
+  479  sudo docker images
+  480  docker push
+  481  docker push santi10/mastercalc
+  482  sudo docker push santi10/mastercalc
+  483  docker login
+  484  docker images
+  485  sudo docker images
+  486  sudo docker push santi10/mastercalc
+  487  docker container ls
+  488  sudo docker container ls
+  489  sudo docker images
+  490  sudo docker rmi e4c0ca2b6ac4
+  491  sudo docker images
+  492  sudo docker build -t santi10/ticketcalc .
+  493  sudo docker images
+  494  sudo docker run -p 5000:5000 -d santi10/ticketcalc
+  495  curl http://localhost:5000
+  496  sudo docker container log   5b776c2df1498513be4f32b91923dbbc9d23d6e2de9964c30ab8c658077b902c
+  497  docker container logs 5b776c2df1498513be4f32b91923dbbc9d23d6e2de9964c30ab8c658077b902c
+  498  sudo docker container logs 5b776c2df1498513be4f32b91923dbbc9d23d6e2de9964c30ab8c658077b902c
+  499  sudo docker ps'
+  500  sudo docker ps
+  501  sudo docker ps -a
+  502  sudo docker container stop
+  503  sudo docker container stop 26036aace979
+  504  sudo docker ps -a
+  505  sudo docker ps 
+  506  sudo docker container stop 5b776c2df149
+  507  sudo docker ps -a
+  508  ps aux | grep app
+  509  sudo ps aux | grep app
+  510  sudo ps aux 
+  511  sudo ps aux | grep 5000
+  512  sudo docker images
+  513  sudo docker container ls
+  514  sudo docker container ls -a
+  515  sudo docker container start 5b776c2df149
+  516  sudo docker inspect 5b776c2df149
+  517  sudo docker container logs 5b776c2df149
+  518  vi app.py 
+  519  ls
+  520  vi requirements.txt 
+  521  vi Dockerfile 
+  522  python3.7
+  523  ls
+  524  vi requirements.txt 
+  525  sudo docker container ls
+  526  sudo docker container ls -a
+  527  sudo docker container rm 26036aace979
+  528  sudo docker container rm 5b776c2df149
+  529  sudo docker container ls -a
+  530  sudo docker container ls
+  531  sudo docker ps
+  532  sudo docker ps -a
+  533  sudo docker run -p 5000:5000 -d santi10/ticketcalc
+  534  sudo docker ps -a
+  535  sudo docker ps
+  536  sudo docker container logs 413bc55ee98e
+  537  vi requirements.txt 
+  538  history  > a
+  539  vi a
+  540  history | grep -i flask
+  541  ls
+  542  vi curl
+  543  ls misc
+  544  vi requirements.txt 
+  545  sudo docker container ls
+  546  sudo docker container ls -a
+  547  sudo docker container rm 413bc55ee98e
+  548  sudo docker container ls -a
+  549  sudo docker run -p 5000:5000 -d santi10/ticketcalc
+  550  sudo docker container ls -a
+  551  sudo docker container logs 0e0c3b4a9587
+  552  vi requirements.txt 
+  553  sudo docker run -p 5000:5000 -d santi10/ticketcalc
+  554  sudo docker ps -a
+  555  sudo docker container logs d2c9cfc57cf6
+  556  sudo docker container logs 0e0c3b4a9587
+  557  cat requirements.txt 
+  558  cat app.py 
+  559  0e0c3b4a9587:q
+  560  vi Dockerfile 
+  561  vi requirements.txt 
+  562  sudo docker run -p 5000:5000 -d santi10/ticketcalc
+  563  sudo docker ps -a
+  564  sudo docker container logs 7720a54f8617
+  565  vi requirements.txt 
+  566  vi Dockerfile 
+  567  sudo docker run -p 5000:5000 -d santi10/ticketcalc
+  568  sudo docker ps -a
+  569  sudo docker container logs d3e1bb958f6d
+  570  vi Dockerfile 
+  571  sudo docker run -p 5000:5000 -d santi10/ticketcalc
+  572  sudo docker ps -a
+  573  sudo docker container logs d2a5d0a72d14
+  574  vi Dockerfile
+  575  sudo docker container rm d2a5d0a72d14 d3e1bb958f6d 7720a54f8617 d2c9cfc57cf6 0e0c3b4a9587
+  576  sudo docker ps -a
+  577  cat Dockerfile 
+  578  pip freeze
+  579  vi Dockerfile
+  580  sudo docker ps -a
+  581  sudo docker ps 
+  582  sudo dicker images
+  583  sudo docker images
+  584  sudo docker images rmi b6196dc65725 5c1cd4638fb7
+  585  sudo docker rmi b6196dc65725 5c1cd4638fb7
+  586  sudo docker images
+  587  sudo docker build -t santi10/ticketcalc .
+  588  sudo docker images
+  589  sudo docker images ls
+  590  sudo docker images ls -a
+  591  sudo docker run -p 5000:5000 -d santi10/ticketcalc
+  592  sudo docker container logs bcf8cf78fd3c6470785da7fadc3e112deaa711409466e5563a88cf57b402626c
+  593      
+  594  sudo docker ps -a
+  595  sudo docker ps 
+  596  sudo docker push
+  597  sudo docker push santi10/ticketcalc
+  598  docker login --username=santi10 --email=santiago_gallo@hotmail.com
+  599  sudo docker login --username=santi10 --email=santiago_gallo@hotmail.com
+  600  sudo docker login --username=santi10 --email santiago_gallo@hotmail.com
+  601  sudo docker login --username=santi10 
+  602  sudo docker push santi10/ticketcalc
+  603  cd /rrot
+  604  cd /root
+  605  sudo -i
+  606  cd rest-api-sections/section3
+  607  ls
+  608  python3.7
+  609  python3.7 --version
+  610  ls
+  611  cd src
+  612  ls
+  613  python3.7 app.py 
+  614  history | grep -i flask
+  615  vi requirements.txt 
+  616  ls
+  617  cd rest-api-sections/section3
+  618  ls
+  619  cd src
+  620  ls
+  621  ls a
+  622  file a
+  623  vi a
+  624  mv a history-commands
+  625  vi history-commands 
+  626  ls
+  627  python3.7 app.py
+  628  echo -n 'db-username' | base64
+  629  cat curl
+  630  ls
+  631  cat app.py
+  632  ls
+  633  vi app.py
+  634  python3.7 app.py
+  635  vi app.py
+  636  python3.7 app.py
+  637  sudo python3.7 app.py
+  638  sudo
+  639  sudo python3.7 app.py
+  640  python3.7 app.py
+  641  sudo python3.7 app.py
+  642  which python3.7
+  643  sudo /usr/local/bin/python3.7 app.py
+  644  vi app.py
+  645  sudo docker run  -d santi10/ticketcalc
+  646  sudo docker run  -d santi10/ticketcalc:1
+  647  sudo docker container stop 29dc9de6c80c91689698713a861796f7f9a7dacc9275aef5ffe0a07c35acc182
+  648  sudo docker ps a
+  649  sudo docker ps 
+  650  sudo docker ps -a
+  651  sudo docker container stop 58178e1b9fb4
+  652  curl http://3.80.41.136/
+  653  curl http://3.80.41.136:3007
+  654  curl http://3.80.41.136:30007
+  655  cat curl
+  656  ls
+  657  more history-commands 
+  658  cat history-commands  | grep -i flask
+  659  pip freeze
+  660  pip3.7 freeze
+  661  cat app.py 
+  662  ls
+  663  cd rest-api-sections/
+  664  ls
+  665  cd section3
+  666  ls
+  667  cd src
+  668  ls
+  669  python3.7 app.py
+  670  cat app.py 
+  671  sudo docker images
+  672  sudo docker push santi10/tickercalc:!
+  673  sudo docker push santi10/tickercalc:1
+  674  sudo docker push santi10/ticketcalc:1
+  675  docker images
+  676  sudo docker images
+  677  sudo docker image tag santi10/ticketcalc:1
+  678  sudo docker image tag santi10/ticketcalc santi10/ticketcalc:!
+  679  sudo docker image tag santi10/ticketcalc santi10/ticketcalc:1
+  680  sudo docker images
+  681  sudo docker push santi10/ticketcalc:1
+  682  docker images
+  683  sudo docker images
+  684  sudo docker rmi santi10/ticketcalc
+  685  sudo docker images
+  686  santi@santi-HP MINGW64 ~
+  687  $ cd Downloads/
+  688  santi@santi-HP MINGW64 ~/Downloads
+  689  $ ssh ec2-user@18.207.235.76 -i ecskeypair.pem
+  690  The authenticity of host '18.207.235.76 (18.207.235.76)' can't be established.
+  691  ECDSA key fingerprint is SHA256:wosvs3s7qnLuSpURKrx1gTlxbocP9SbiP2B0bFdPIzo.
+  692  Are you sure you want to continue connecting (yes/no)? yes
+  693  Warning: Permanently added '18.207.235.76' (ECDSA) to the list of known hosts.
+  694  Last login: Thu Aug 27 10:15:10 2020 from rrcs-97-77-198-5.sw.biz.rr.com
+  695         __|  __|_  )
+  696         _|  (     /   Amazon Linux 2 AMI
+  697        ___|\___|___|
+  698  https://aws.amazon.com/amazon-linux-2/
+  699  [ec2-user@ip-172-31-64-74 ~]$ ls
+  700  rest-api-sections
+  701  [ec2-user@ip-172-31-64-74 ~]$
+  702  [ec2-user@ip-172-31-64-74 ~]$
+  703  [ec2-user@ip-172-31-64-74 ~]$ ls
+  704  rest-api-sections
+  705  [ec2-user@ip-172-31-64-74 ~]$ cd rest-api-sections/
+  706  [ec2-user@ip-172-31-64-74 rest-api-sections]$ ls
+  707  guides     section11  section3  section5  section9
+  708  README.md  section2   section4  section6
+  709  [ec2-user@ip-172-31-64-74 rest-api-sections]$ cd section3
+  710  [ec2-user@ip-172-31-64-74 section3]$ ls
+  711  src
+  712  [ec2-user@ip-172-31-64-74 section3]$ cd src
+  713  [ec2-user@ip-172-31-64-74 src]$ ls
+  714  a       curl        misc         requirements.txt  test_app.py
+  715  app.py  Dockerfile  __pycache__  templates
+  716  [ec2-user@ip-172-31-64-74 src]$ python3.7 app.py
+  717   * Serving Flask app "app" (lazy loading)
+  718   * Environment: production
+  719     WARNING: This is a development server. Do not use it in a production deployme                         nt.
+  720     Use a production WSGI server instead.
+  721   * Debug mode: off
+  722   * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+  723  97.77.198.5 - - [28/Aug/2020 23:48:48] "GET / HTTP/1.1" 200 -
+  724  97.77.198.5 - - [28/Aug/2020 23:48:48] "GET /favicon.ico HTTP/1.1" 404 -
+  725  97.77.198.5 - - [28/Aug/2020 23:49:08] "GET /add?num1=10%num2=3 HTTP/1.1" 400 -
+  726  10 3
+  727  97.77.198.5 - - [28/Aug/2020 23:49:33] "GET /add?num1=10&num2=3 HTTP/1.1" 200 -
+  728  ^C[ec2-user@ip-172-31-64-74 src]$ cat app.py
+  729  from flask import Flask, render_template
+  730  from flask_restful import reqparse
+  731  import random as r
+  732  app = Flask(__name__)
+  733  @app.route('/')
+  734  def home():
+  735      return render_template('index.html')
+  736  @app.route('/add', methods=['GET'])
+  737  def add():
+  738      parser = reqparse.RequestParser()
+  739      parser.add_argument('num1', type=int, required=True)
+  740      parser.add_argument('num2', type=int, required=True)
+  741      args = parser.parse_args()
+  742      print(args['num1'], args['num2'])
+  743      sum = args['num1'] + args['num2']
+  744      return f"Sum =  {str(sum)}"
+  745  @app.route('/substract', methods=['GET'])
+  746  def substract():
+  747      parser = reqparse.RequestParser()
+  748      parser.add_argument('num1', required=True, help='Cannot be blank')
+  749      parser.add_argument('num2', required=True, help='Cannot be blank')
+  750      args = parser.parse_args()
+  751      substr = float(args['num1']) - float(args['num2'])
+  752      return f"Substraction =  {str(substr)}"
+  753  @app.route('/division', methods=['GET'])
+  754  def division():
+  755      parser = reqparse.RequestParser()
+  756      parser.add_argument('num1', required=True, help='Cannot be blank')
+  757      parser.add_argument('num2', required=True, help='Cannot be blank')
+  758      args = parser.parse_args()
+  759      division = float(args['num1']) / float(args['num2'])
+  760      return f"Division =  {str(division)}"
+  761  @app.route('/random', methods=['GET'])
+  762  def random():
+  763      i = 0
+  764      parser = reqparse.RequestParser()
+  765      parser.add_argument('num1', required=False, store_missing=False)
+  766      args = parser.parse_args()
+  767      if args.get('num1') == None:
+  768          count = 10
+  769      else:
+  770          count = int(args.get('num1'))
+  771      array = []
+  772      while i < count:
+  773          array.append(str(r.randint(0, 9)))
+  774          i += 1
+  775      return f'{str(count)} random numbers: {"".join(array)}'
+  776  @app.route('/metrics')
+  777  def metrics():
+  778      return "Provide prometheus metrics that you see fit."
+  779  @app.route('/readiness')
+  780  def readines():
+  781      return "200 - Readiness"
+  782  @app.route('/liveness')
+  783  def liveness():
+  784      return "200 - Liveness"
+  785  if __name__ == '__main__':;     app.run(host='0.0.0.0')
+  786  [ec2-user@ip-172-31-64-74 src]$
+  787  [ec2-user@ip-172-31-64-74 src]$ sudo docker images
+  788  REPOSITORY           TAG                 IMAGE ID            CREATED                                      SIZE
+  789  santi10/ticketcalc   latest              63a630ded0b5        31 hours ago                                 1.01GB
+  790  python               3.7                 5c1cd4638fb7        10 days ago                                  876MB
+  791  [ec2-user@ip-172-31-64-74 src]$ sudo docker push santi10/tickercalc:!
+  792  invalid reference format
+  793  [ec2-user@ip-172-31-64-74 src]$ sudo docker push santi10/tickercalc:1
+  794  The push refers to repository [docker.io/santi10/tickercalc]
+  795  An image does not exist locally with the tag: santi10/tickercalc
+  796  [ec2-user@ip-172-31-64-74 src]$ sudo docker push santi10/ticketcalc:1
+  797  The push refers to repository [docker.io/santi10/ticketcalc]
+  798  tag does not exist: santi10/ticketcalc:1
+  799  [ec2-user@ip-172-31-64-74 src]$ docker images
+  800  Got permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Get http://%2Fvar%2Frun%2Fdocker.sock/v1.40/images/json: dial unix /var/run/docker.sock: connect: permission denied
+  801  [ec2-user@ip-172-31-64-74 src]$ sudo docker images
+  802  REPOSITORY           TAG                 IMAGE ID            CREATED             SIZE
+  803  santi10/ticketcalc   latest              63a630ded0b5        31 hours ago        1.01GB
+  804  python               3.7                 5c1cd4638fb7        10 days ago         876MB
+  805  [ec2-user@ip-172-31-64-74 src]$ sudo docker image tag santi10/ticketcalc:1
+  806  "docker image tag" requires exactly 2 arguments.
+  807  See 'docker image tag --help'.
+  808  Usage:  docker image tag SOURCE_IMAGE[:TAG] TARGET_IMAGE[:TAG]
+  809  Create a tag TARGET_IMAGE that refers to SOURCE_IMAGE
+  810  [ec2-user@ip-172-31-64-74 src]$ sudo docker image tag santi10/ticketcalc santi10/ticketcalc:!
+  811  Error parsing reference: "santi10/ticketcalc:"docker image tag" requires exactly 2 arguments. is not a valid repository/tag: invalid reference format
+  812  [ec2-user@ip-172-31-64-74 src]$ sudo docker image tag santi10/ticketcalc santi10/ticketcalc:1
+  813  [ec2-user@ip-172-31-64-74 src]$ sudo docker images
+  814  REPOSITORY           TAG                 IMAGE ID            CREATED             SIZE
+  815  santi10/ticketcalc   1                   63a630ded0b5        31 hours ago        1.01GB
+  816  santi10/ticketcalc   latest              63a630ded0b5        31 hours ago        1.01GB
+  817  python               3.7                 5c1cd4638fb7        10 days ago         876MB
+  818  [ec2-user@ip-172-31-64-74 src]$ sudo docker push santi10/ticketcalc:1
+  819  The push refers to repository [docker.io/santi10/ticketcalc]
+  820  06473d5f3f6d: Layer already exists
+  821  1063da19d3f8: Layer already exists
+  822  d59f7956c85c: Layer already exists
+  823  7e981e2b8592: Layer already exists
+  824  a616a1b6a32d: Layer already exists
+  825  1262698c17e2: Layer already exists
+  826  12cd54fa9297: Layer already exists
+  827  f17789b093c5: Layer already exists
+  828  e480b226ea6b: Layer already exists
+  829  e5df62d9b33a: Layer already exists
+  830  7a9460d53218: Layer already exists
+  831  b2765ac0333a: Layer already exists
+  832  0ced13fcf944: Layer already exists
+  833  1: digest: sha256:d2f4b643bb950011a2f566e05d9d3c0b6c5c16c8e6d236deec2938db3774a8ba size: 3056
+  834  [ec2-user@ip-172-31-64-74 src]$ docker images
+  835  Got permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Get http://%2Fvar%2Frun%2Fdocker.sock/v1.40/images/json: dial unix /var/run/docker.sock: connect: permission denied
+  836  [ec2-user@ip-172-31-64-74 src]$ sudo docker images
+  837  REPOSITORY           TAG                 IMAGE ID            CREATED             SIZE
+  838  santi10/ticketcalc   1                   63a630ded0b5        31 hours ago        1.01GB
+  839  santi10/ticketcalc   latest              63a630ded0b5        31 hours ago        1.01GB
+  840  python               3.7                 5c1cd4638fb7        10 days ago         876MB
+  841  [ec2-user@ip-172-31-64-74 src]$
+  842  [ec2-user@ip-172-31-64-74 src]$
+  843  [ec2-user@ip-172-31-64-74 src]$ sudo docker rmi santi10/ticketcalc
+  844  Untagged: santi10/ticketcalc:latest
+  845  [ec2-user@ip-172-31-64-74 src]$ sudo docker images
+  846  REPOSITORY           TAG                 IMAGE ID            CREATED             SIZE
+  847  santi10/ticketcalc   1                   63a630ded0b5        31 hours ago        1.01GB
+  848  python               3.7                 5c1cd4638fb7        10 days ago         876MB
+  849  [ec2-user@ip-172-31-64-74 src]$
+  850  sudo docker run -p 5000:5000 -d santi10/ticketcalc
+  851  sudo docker run -p 5000:5000 -d santi10/ticketcalc:1
+  852  sudo docker ps
+  853  sudo docker container stop 58178e1b9fb4
+  854  sudo docker container 58178e1b9fb4 start
+  855  sudo docker container start 8178e1b9fb4
+  856  sudo docker ps -a
+  857  sudo docker container start 58178e1b9fb4
+  858  netsstat
+  859  netstat
+  860  netstat -tulpn
+  861  netstat -tulpn | grep :80
+  862  sudo netstat -tulpn | grep :80
+  863  ls
+  864  cd rest-api-sections/
+  865  ls
+  866  cd section3
+  867  ls
+  868  cd src/
+  869  cat app.py 
+  870  cat app1.py 
+  871  vi app1.py 
+  872  ls
+  873  cd rest-api-sections/
+  874  ls
+  875  cd section3
+  876  ls
+  877  pwd
+  878  cd ..
+  879  ls
+  880  cd section3
+  881  ls
+  882  cd src
+  883  ls
+  884  cat Dockerfile 
+  885  .py
+  886  vi app1.py
+  887  ls
+  888  vi app1.py 
+  889  python3.7 app1.py 
+  890  cat app.py 
+  891  python3.7 app1.py 
+  892  history
+  893  cd rest-api-sections/
+  894  cd section3
+  895  cd src
+  896  cat app.py 
+  897  python3.7 app1.py
+  898  vi app1.py 
+  899  python3.7 app1.py
+  900  cat app.py 
+  901  python3.7 app1.py
+  902  ls
+  903  cat app.py
+  904  python3.7 app1.py
+  905  cat app1.py 
+  906  ls
+  907  cd ..
+  908  ls
+  909  cd ..
+  910  ls
+  911  ls section 3
+  912  ls
+  913  cd section3
+  914  ls
+  915  mkdir version1
+  916  cp -r src version1
+  917  mkdir version2
+  918  cp -r src version2
+  919  ls
+  920  cd version2
+  921  ls
+  922  cd src
+  923  ls
+  924  mv app1.py app.py
+  925  ls
+  926  history > history-commands

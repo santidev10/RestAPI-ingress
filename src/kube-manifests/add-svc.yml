@@ -1,0 +1,34 @@
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: add-deploy
+  labels:
+    app: addcalc
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: addcalc
+  template:
+    metadata:
+      labels:
+        app: addcalc
+    spec:
+      containers:
+        - name: addcalc
+          image: santi10/add:1
+          ports:
+            - containerPort: 5000
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: add-svc
+spec:
+  type: ClusterIP 
+  selector:
+    app: addcalc
+  ports:
+    - port: 80
+      targetPort: 5000

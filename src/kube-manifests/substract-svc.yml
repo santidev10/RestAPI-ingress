@@ -1,0 +1,35 @@
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: substract-deploy
+  labels:
+    app: substractcalc
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: substractcalc
+  template:
+    metadata:
+      labels:
+        app: substractcalc
+    spec:
+      containers:
+        - name: substractcalc
+          image: santi10/substract:1
+          ports:
+            - containerPort: 5000
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: substract-svc
+spec:
+  type: ClusterIP
+  selector:
+    app: substractcalc
+  ports:
+    - port: 80
+      targetPort: 5000
+

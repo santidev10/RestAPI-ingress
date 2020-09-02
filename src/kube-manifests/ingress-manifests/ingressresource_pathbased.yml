@@ -1,0 +1,29 @@
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  name: ingress-resource-tmaster
+spec:
+  rules:
+  - host: ticketmaster.santigrace.com
+    http:
+      paths:
+      # Default Path(/)
+      - backend:
+          serviceName: add-svc 
+          servicePort: 80
+      - path: /add
+        backend:
+          serviceName: add-svc
+          servicePort: 80
+      - path: /substract
+        backend:
+          serviceName: substract-svc 
+          servicePort: 80
+      - path: /division
+        backend:
+          serviceName: division-svc 
+          servicePort: 80
+      - path: /random
+        backend:
+          serviceName: random-svc 
+          servicePort: 80

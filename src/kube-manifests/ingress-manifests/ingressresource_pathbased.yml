@@ -27,3 +27,7 @@ spec:
         backend:
           serviceName: random-svc 
           servicePort: 80
+      - path: /metrics
+        backend:
+          serviceName: metrics-svc 
+          servicePort: 80

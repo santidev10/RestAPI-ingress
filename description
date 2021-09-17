@@ -1,0 +1,42 @@
+Note to the Recruiter:
+Please tell the candidate to only share the repository with us when it is completed.
+Also inform the candidate to reach out to you if they have any questions regarding the
+exercise, and to not delete the repository until feedback is provided.
+
+Take home exercises:
+
+Imagine you are writing a production service, add testing and the monitoring you think will be
+required to operate this service.
+
+1. Create a github repository, it can be private, if private share it with:
+   a. @jescarri
+   b. @wolfencom
+   c. @hsuchantm
+ 
+2. Develop a webservice in your favourite language it should implement the following
+methods:
+
+  a. /add
+      i. It will take two numbers and add them together.
+      ii. Return the result of adding them.
+  b. /substract
+      i. It will take two real numbers and return the result of subtracting them.
+  c. /division
+      i. Divide two numbers, return the result.
+  d. /random
+      i. Optional argument Count.
+      ii. It will return by default 10 random numbers if Count provided return the amount of random numbers requested.
+  e. /metrics
+     i. Provide prometheus metrics that you see fit.
+  f. /readiness
+      i. 200 if service is ready to take requests.
+  g. /liveness
+      i. 200 if the service is alive.
+
+3. Add unit tests.
+
+4. Dockerize the above webservice.
+      a. Employ the best practices you are aware of to create a good container image.
+
+5. Create kubernetes manifests to deploy this web service into kubernetes.
+      a. Use ingress-class: nginx.
